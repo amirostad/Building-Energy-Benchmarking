@@ -16,8 +16,6 @@ For this project, I was interestested in using Seatlle Building Energy Benchmark
 1. Which Types of Buildings Use More Energy?
 2. Which Types of Buildings Contribute Most to Greenhouse Gas Emissions?
 3. How Do the Different Buildings Relate to Greenhouse Gas Emissions?
-4. Which Parameters are the Most Important in Building Energy Use Intensity?
-
 
 ## File Descriptions <a name="files"></a>
 
