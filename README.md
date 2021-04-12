@@ -21,7 +21,7 @@ For this project, I was interestested in using Seatlle Building Energy Benchmark
 
 ## File Descriptions <a name="files"></a>
 
-There is a notebook available here to showcase work related to the above questions.  The notebook is exploratory in searching through the data pertaining to the questions. Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is a notebook available here (Building_Energy_Benchmarking) to showcase work related to the above questions.  The notebook is exploratory in searching through the data pertaining to the questions. Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 ## Results<a name="results"></a>
 
