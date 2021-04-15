@@ -11,7 +11,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Seatlle Building Energy Benchmarking data from 2016 to better understand:
+For this project, I was interestested in using Seattle Building Energy Benchmarking data from 2016 to better understand:
 
 1. Which Types of Buildings Use More Energy?
 2. Which Types of Buildings Contribute Most to Greenhouse Gas Emissions?
